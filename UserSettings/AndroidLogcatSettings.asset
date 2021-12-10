@@ -2,8 +2,8 @@
     "m_SelectedDeviceId": "emulator-5554",
     "m_SelectedPackage": {
         "deviceId": "emulator-5554",
-        "name": "com.GeorgeBrownCollege.GAME2014F2021Lab10",
-        "processId": 3683,
+        "name": "ca.GeorgeBrownCollege.GAME2014F2021Lab11",
+        "processId": 3153,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -28,8 +28,8 @@
         },
         {
             "deviceId": "emulator-5554",
-            "name": "com.GeorgeBrownCollege.GAME2014F2021Lab10",
-            "processId": 3683,
+            "name": "ca.GeorgeBrownCollege.GAME2014F2021Lab11",
+            "processId": 3153,
             "exited": false
         },
         {
@@ -54,6 +54,12 @@
             "deviceId": "1WMHH830560525",
             "name": "com.GeorgeBrownCollege.GAME2014F2021Lab10",
             "processId": 1388,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH830560525",
+            "name": "com.oculus.shellenv",
+            "processId": 12567,
             "exited": false
         }
     ],
